@@ -13,9 +13,10 @@ document.getElementById("loveJavascript").addEventListener("click", () => {
 });
 
 // 4
-
-let cidade = prompt("Digite o nome de uma cidade do Brasil:");
-alert(`Estive em ${cidade} e lembrei de você.`);
+document.getElementById("qualCidade").addEventListener("click", () => {
+  let cidade = prompt("Digite o nome de uma cidade do Brasil:");
+  alert(`Estive em ${cidade} e lembrei de você.`);
+});
 
 // 5
 
