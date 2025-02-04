@@ -1,4 +1,4 @@
-# Desafio 1
+# 🤖 Desafio 1
 
 1. Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
 
