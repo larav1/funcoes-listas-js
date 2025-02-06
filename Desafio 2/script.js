@@ -28,3 +28,19 @@ function mediaNumero() {
 }
 
 mediaNumero();
+
+//5
+function numeroMaior(a, b) {
+  return a > b ? a : b;
+}
+
+let maiorNumero = numeroMaior(20, 4);
+console.log(maiorNumero);
+
+//6
+function multiplicacao(num) {
+  return num * num;
+}
+
+let resultado = multiplicacao(4);
+console.log(resultado);
