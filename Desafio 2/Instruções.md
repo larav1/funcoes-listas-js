@@ -1,6 +1,4 @@
-# Desafio 2
-
-Desafios
+# 🌎 Desafio 2
 
 1. Criar uma função que exibe "Olá, mundo!" no console.
 
